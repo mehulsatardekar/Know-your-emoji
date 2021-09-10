@@ -7,7 +7,13 @@ const emojiList = {
   "🤑": "money-money",
   "🤯": "amazed",
   "🙏": "namaskar",
-  "👁": "third-eye"
+  "👁": "third-eye",
+  "🌎":"earth",
+  "🎂":"cake",
+  "😎":"swag-guy",
+  "🐱‍🚀":"astro-cat",
+  "🤖":"robot",
+  "🤡":"clown"
 };
 
 const emoji = Object.keys(emojiList);
